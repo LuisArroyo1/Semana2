@@ -1,0 +1,25 @@
+Backend I y II Unidad
+
+- JDK 11 o 17:jdk.java.net/17
+
+- IDE: jetbrains.com/es-es/idea/download/#section=windows
+
+    IntelliJ IDEA Ultimate
+
+- PostgreSQL: enterprisedb.com/downloads/postgres-postgresql-downloads
+
+- Postman: postman.com/downloads
+
+- Git: git-scm.com
+
+- Heroku CLI: devcenter.heroku.com/articles/heroku-cli
+
+
+
+Fronted III y IV Unidad
+
+- NodeJS: nodejs.org/es
+
+- Angular CLI: npm install -g @angular/cli
+
+- Visual Studio Code: code.visualstudio.com/downloadn
